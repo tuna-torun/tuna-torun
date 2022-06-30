@@ -1,0 +1,3 @@
+- Hi, I’m Tuna!
+- I’m interested in game development and game design.
+- I’m currently learning Python and C#
